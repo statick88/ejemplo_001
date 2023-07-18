@@ -1,4 +1,4 @@
 Mi nombre es Diego Saavedra, soy facilitador de Abacom, me gusta las tecnologías de programación web, inteligencia artificial y Software
 Libre.
 
-Actualmente estoy aprendiendo Go para trabajar con este lenguaje muy rápido.
+Actualmente estoy aprendiendo Ruby para conocer Rails.
