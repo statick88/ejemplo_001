@@ -2,3 +2,5 @@ Mi nombre es Diego Saavedra, soy facilitador de Abacom, me gusta las tecnología
 Libre.
 
 Actualmente estoy aprendiendo Django con el Don't repeat yourself
+
+Desarrollamos de forma rápida creando modelos vistas y templates.
