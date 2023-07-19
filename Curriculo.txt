@@ -4,3 +4,5 @@ Libre.
 Actualmente estoy aprendiendo Django con el Don't repeat yourself
 
 Desarrollamos de forma rápida creando modelos vistas y templates.
+
+Esto es un microresumen de un curriculo.
